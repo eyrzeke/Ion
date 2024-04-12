@@ -33,7 +33,7 @@ class PirateSpawner : BasicSpawner(
 				AISpawningConfiguration.AISpawnerTier(
 					identifier = "WEAKEST",
 					nameList = mapOf(
-						"<$PIRATE_DARK_RED>Rapscallion" to 200,
+						"<$PIRATE_DARK_RED>Rapscallion Alis" to 200,
 						"<$PIRATE_DARK_RED>Poopdeck Pete" to 2,
 					),
 					ships = mapOf(
@@ -46,8 +46,8 @@ class PirateSpawner : BasicSpawner(
 				AISpawningConfiguration.AISpawnerTier(
 					identifier = "WEAK",
 					nameList = mapOf(
-						"<$PIRATE_DARK_RED>Rapscallion" to 2,
-						"<$PIRATE_DARK_RED>Swashbuckler" to 2,
+						"<$PIRATE_DARK_RED>Rapscallion Umak" to 2,
+						"<$PIRATE_DARK_RED>Swashbuckler Petra" to 2,
 					),
 					ships = mapOf(
 						iskat.identifier to 2,
@@ -61,9 +61,9 @@ class PirateSpawner : BasicSpawner(
 				AISpawningConfiguration.AISpawnerTier(
 					identifier = "NORMAL",
 					nameList = mapOf(
-						"<$PIRATE_DARK_RED>Swashbuckler" to 2,
+						"<$PIRATE_DARK_RED>Swashbuckler Adrian" to 2,
 						"<$PIRATE_DARK_RED>Swashbuckler Drake" to 2,
-						"<$PIRATE_DARK_RED>Swashbuckler Pat" to 2,
+						"<$PIRATE_DARK_RED>Swashbuckler Triss" to 2,
 					),
 					ships = mapOf(
 						hiro.identifier to 4,
@@ -74,10 +74,10 @@ class PirateSpawner : BasicSpawner(
 				AISpawningConfiguration.AISpawnerTier(
 					identifier = "MODERATE",
 					nameList = mapOf(
-						"<$PIRATE_DARK_RED>Corsair Jones" to 2,
-						"<$PIRATE_DARK_RED>Corsair Jones" to 2,
+						"<$PIRATE_DARK_RED>Corsair Jace" to 2,
+						"<$PIRATE_DARK_RED>Corsair Winora" to 2,
 						"<$PIRATE_DARK_RED>Buccaneer Bonny" to 2,
-						"<$PIRATE_DARK_RED>Buccaneer Jack" to 2,
+						"<$PIRATE_DARK_RED>Buccaneer Sparrow" to 2,
 					),
 					ships = mapOf(
 						wasp.identifier to 4,
@@ -91,7 +91,7 @@ class PirateSpawner : BasicSpawner(
 					nameList = mapOf(
 						"<italic><$PIRATE_DARK_RED>Warlord Jay" to 2,
 						"<italic><$PIRATE_DARK_RED>Warlord Steve" to 2,
-						"<italic><$PIRATE_DARK_RED>Warlord Greg" to 2
+						"<italic><$PIRATE_DARK_RED>Warlord Omar" to 2
 					),
 					ships = mapOf(
 						vendetta.identifier to 2,
@@ -105,8 +105,8 @@ class PirateSpawner : BasicSpawner(
 				AISpawningConfiguration.AISpawnerTier(
 					identifier = "EXTRA_STRONG",
 					nameList = mapOf(
-						"<bold><$PIRATE_DARK_RED>Raimus, Archon" to 2,
-						"<bold><$PIRATE_DARK_RED>Warlord Drake" to 2,
+						"<bold><$PIRATE_DARK_RED>Baron Yrasi" to 2,
+						"<bold><$PIRATE_DARK_RED>Warlord Tysara" to 2,
 					),
 					ships = mapOf(
 						vendetta.identifier to 2,
