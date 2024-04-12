@@ -35,12 +35,12 @@ class MiningCorpSpawner : BasicSpawner(
 				AISpawnerTier(
 					identifier = "STANDARD",
 					nameList = mapOf(
-						"<${MINING_CORP_LIGHT_ORANGE.asHexString()}>Daron Centrich" to 2,
-						"<${MINING_CORP_LIGHT_ORANGE.asHexString()}>Autopilot<$HE_MEDIUM_GRAY>-<white>2.56" to 2,
-						"<${MINING_CORP_LIGHT_ORANGE.asHexString()}>Autopilot<$HE_MEDIUM_GRAY>-<white>3.11" to 2,
+						"<${MINING_CORP_LIGHT_ORANGE.asHexString()}>Ensign <white>Amara" to 2,
+						"<${MINING_CORP_LIGHT_ORANGE.asHexString()}>Ensign <white>Berysi" to 2,
+						"<${MINING_CORP_LIGHT_ORANGE.asHexString()}>Ensign <white>Ceres" to 2
 						"<${MINING_CORP_LIGHT_ORANGE.asHexString()}>Autopilot<$HE_MEDIUM_GRAY>-<white>2.59" to 2,
 						"<${MINING_CORP_LIGHT_ORANGE.asHexString()}>Autopilot<$HE_MEDIUM_GRAY>-<white>1.94" to 2,
-						"<${MINING_CORP_LIGHT_ORANGE.asHexString()}>Hawthorne Severt" to 2
+						"<${MINING_CORP_LIGHT_ORANGE.asHexString()}>Autopilot<$HE_MEDIUM_GRAY>-<white>3.11" to 2
 					),
 					ships = mapOf(
 						woodpecker.identifier to 2,
@@ -52,9 +52,9 @@ class MiningCorpSpawner : BasicSpawner(
 				AISpawnerTier(
 					identifier = "MODERATE",
 					nameList = mapOf(
-						"<${MINING_CORP_LIGHT_ORANGE.asHexString()}>Ship's Captain <white>1" to 2,
-						"<${MINING_CORP_LIGHT_ORANGE.asHexString()}>Ship's Captain <white>2" to 2,
-						"<${MINING_CORP_LIGHT_ORANGE.asHexString()}>Ship's Captain <white>3" to 2
+						"<${MINING_CORP_LIGHT_ORANGE.asHexString()}>Lieutenant <white>Daron" to 2,
+						"<${MINING_CORP_LIGHT_ORANGE.asHexString()}>Lieutenant <white>Erisa" to 2,
+						"<${MINING_CORP_LIGHT_ORANGE.asHexString()}>Lieutenant <white>Ferus" to 2
 					),
 					ships = mapOf(
 						woodpecker.identifier to 3,
@@ -67,9 +67,9 @@ class MiningCorpSpawner : BasicSpawner(
 				AISpawnerTier(
 					identifier = "ADVANCED",
 					nameList = mapOf(
-						"<${MINING_CORP_DARK_ORANGE.asHexString()}>Ship's Captain <white>1" to 2,
-						"<${MINING_CORP_DARK_ORANGE.asHexString()}>Ship's Captain <white>2" to 2,
-						"<${MINING_CORP_DARK_ORANGE.asHexString()}>Ship's Captain <white>3" to 2
+						"<${MINING_CORP_DARK_ORANGE.asHexString()}>Commander <white>Gerat" to 2,
+						"<${MINING_CORP_DARK_ORANGE.asHexString()}>Commander <white>Hawthorne" to 2,
+						"<${MINING_CORP_DARK_ORANGE.asHexString()}>Commander <white>Isania" to 2
 					),
 					ships = mapOf(
 						typeA21b.identifier to 2,
@@ -82,9 +82,9 @@ class MiningCorpSpawner : BasicSpawner(
 //				AISpawnerTier(
 //					identifier = "ULTRA",
 //					nameList = mapOf(
-//						"<${MINING_CORP_DARK_ORANGE.asHexString()}>Ship's Captain <white>1" to 2,
-//						"<${MINING_CORP_DARK_ORANGE.asHexString()}>Ship's Captain <white>2" to 2,
-//						"<${MINING_CORP_DARK_ORANGE.asHexString()}>Ship's Captain <white>3" to 2
+//						"<${MINING_CORP_DARK_ORANGE.asHexString()}>Captain <white>Josh" to 2,
+//						"<${MINING_CORP_DARK_ORANGE.asHexString()}>Captain <white>Khent" to 2,
+//						"<${MINING_CORP_DARK_ORANGE.asHexString()}>Captain <white>Lori" to 2
 //					),
 //					ships = mapOf(
 //						ostrich.identifier to 2,
