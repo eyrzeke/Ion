@@ -32,7 +32,7 @@ class PrivateerSpawner : BasicSpawner(
 					identifier = "EASY",
 					nameList = mapOf(
 						"<${PRIVATEER_MEDIUM_TEAL}>System Defense <${PRIVATEER_LIGHT_TEAL}>Rookie" to 5,
-						"<${PRIVATEER_MEDIUM_TEAL}>System Defense <${PRIVATEER_LIGHT_TEAL}>Trainee" to 2,
+						"<${PRIVATEER_MEDIUM_TEAL}>System Defense <${PRIVATEER_LIGHT_TEAL}>Pilot" to 2,
 					),
 					ships = mapOf(
 						protector.identifier to 2,
@@ -44,7 +44,7 @@ class PrivateerSpawner : BasicSpawner(
 					identifier = "NORMAL",
 					nameList = mapOf(
 						"<${PRIVATEER_MEDIUM_TEAL}>System Defense <${PRIVATEER_LIGHT_TEAL}>Rookie" to 2,
-						"<${PRIVATEER_MEDIUM_TEAL}>System Defense <${PRIVATEER_LIGHT_TEAL}>Trainee" to 5,
+						"<${PRIVATEER_MEDIUM_TEAL}>System Defense <${PRIVATEER_LIGHT_TEAL}>Pilot" to 5,
 					),
 					ships = mapOf(
 						protector.identifier to 2,
